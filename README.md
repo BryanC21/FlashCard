@@ -16,4 +16,4 @@ An app that shows a question and then allows you to click on it to flip the card
 
 
 
-<img src="https://imgur.com/ql5Nucg" width=200><br>
+<img src="https://i.imgur.com/ql5Nucg.gif" width=200><br>
