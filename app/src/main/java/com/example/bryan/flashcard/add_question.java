@@ -32,7 +32,7 @@ public class add_question extends AppCompatActivity {
                 setResult(RESULT_OK, data); // set result code and bundle data for response
                 finish();
 
-                Log.d("myTag", "Save button ran");
+                Log.d("myTag", "Save button ran!");
             }
         });
     }
