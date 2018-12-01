@@ -5,7 +5,7 @@ Added animations for improved user experience.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/xthEACp.gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
